@@ -21,12 +21,9 @@ jobs:
           github_token: ${{ secrets.GH_PAT }}
 
       - name: commit
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
-          publish_branch: main
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          allow_empty_commit: false
-          full_commit_message: '🤖 Daily update!'
+        run: |
+          git add .
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git commit -am '🤖 Daily update!'
+          git push origin main
