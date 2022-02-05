@@ -1,31 +1,31 @@
-name: readme
+name: wordle
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
-  schedule:
-    - cron:  '0 0 * * *'
+  repository_dispatch:
+    types:
+      - wordle-update-trigger
 
 jobs:
-  userfetch:
+  wordle:
     runs-on: ubuntu-latest
     steps:
       - name: setup
         uses: actions/checkout@v2
 
-      - name: userfetch
-        uses: userfetch/userfetch-action@v1
+      - name: readme-wordle
+        uses: aryan02420/readme-wordle
         with:
-          config: 'userfetch/config.mjs'
-          svg: 'userfetch/info.svg'
+          state: ''
+          action: 'a'
+          outfile: './templates/wordle.md'
         env:
-          github_token: ${{ secrets.GH_PAT }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: commit
         run: |
           git add .
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git commit -am '🤖 Daily update!'
+          git commit -am '🐛 Wordle update!'
           git push origin main
