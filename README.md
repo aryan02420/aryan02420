@@ -10,20 +10,34 @@
       />
     </td>
     <td>
-      <img
-           src="https://github-readme-stats.vercel.app/api?username=aryan02420&show_icons=true&hide_title=true&include_all_commits=true&count_private=true"
-           alt="aryan02420's GitHub Stats"
-           width="380px"
-      />
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats.vercel.app/api?username=aryan02420&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=apprentice"
+          width="380"
+        />
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=aryan02420&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=graywhite"
+          alt="aryan02420's GitHub Stats"
+          width="380"
+        />
+      </picture>
     </td>
   </tr>
   <tr>
     <td>
-      <img
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan02420&layout=compact&hide_title=true&langs_count=8"
-           alt="aryan02420's GitHub Stats"
-           width="380px"
-       />
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan02420&layout=compact&hide_title=true&langs_count=6&theme=apprentice"
+          width="380"
+        />
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan02420&layout=compact&hide_title=true&langs_count=6&theme=graywhite"
+          alt="aryan02420's GitHub Stats"
+          width="380"
+        />
+      </picture>
     </td>
   </tr>
 </table>
