@@ -22,6 +22,14 @@ jobs:
         env:
           github_token: ${{ secrets.GH_PAT }}
 
+      - name: userfetch
+        uses: userfetch/userfetch-action@v1
+        with:
+          config: 'userfetch/config_light.mjs'
+          svg: 'userfetch/info_light.svg'
+        env:
+          github_token: ${{ secrets.GH_PAT }}
+
       - name: commit
         run: |
           git add .

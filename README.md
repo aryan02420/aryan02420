@@ -3,11 +3,18 @@
 <table border="0">
   <tr>
     <td rowspan="2">
-      <img
-        src="https://github.com/aryan02420/aryan02420/raw/main/userfetch/info.svg"
-        alt="aryan02420"
-        width="390px"
-      />
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github.com/aryan02420/aryan02420/raw/main/userfetch/info.svg"
+          width="390"
+        />
+        <img
+          src="https://github.com/aryan02420/aryan02420/raw/main/userfetch/info_light.svg"
+          alt="aryan02420's GitHub Stats"
+          width="390"
+        />
+      </picture>
     </td>
     <td>
       <picture>

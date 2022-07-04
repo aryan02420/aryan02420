@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 260.52">
+  <foreignObject x="0" y="0" id="window">
+    <style>
+  .ansi-black-fg {
+    color: #232627;
+  }
+  .ansi-red-fg {
+    color: #ef4444;
+  }
+  .ansi-green-fg {
+    color: #22c55e;
+  }
+  .ansi-yellow-fg {
+    color: #eab308;
+  }
+  .ansi-blue-fg {
+    color: #3b82f6;
+  }
+  .ansi-magenta-fg {
+    color: #d946ef;
+  }
+  .ansi-cyan-fg {
+    color: #06b6d4;
+  }
+  .ansi-white-fg {
+    color: #f5f5f5;
+  }
+  .ansi-bright-black-fg {
+    color: #7f8c8d;
+  }
+  .ansi-bright-red-fg {
+    color: #f87171;
+  }
+  .ansi-bright-green-fg {
+    color: #4ade80;
+  }
+  .ansi-bright-yellow-fg {
+    color: #fde047;
+  }
+  .ansi-bright-blue-fg {
+    color: #60a5fa;
+  }
+  .ansi-bright-magenta-fg {
+    color: #e879f9;
+  }
+  .ansi-bright-cyan-fg {
+    color: #22d3ee;
+  }
+  .ansi-bright-white-fg {
+    color: #ffffff;
+  }
+  .ansi-bold {
+    font-weight: bold;
+  }
+  #window {
+    --font-size: 13.6px;
+    --line-height: 19.72px;
+    --term-rows: 12;
+    --term-cols: 50;
+    --term-px: 20;
+    --term-py: 15;
+    --term-rad: 12;
+    --color-bg: #fcfcfc;
+    --color-fg: #18181b;
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    font-family: monospace;
+    text-size-adjust: 100%;
+    color: var(--color-fg);
+    width: calc((var(--term-cols) * 0.5em) + (var(--term-px) * 2px));
+    height: calc((var(--term-rows) * var(--line-height)) + (var(--term-py) * 2px) - (var(--line-height) - var(--font-size)));
+  }
+  #terminal {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    margin: 0;
+    padding: calc(var(--term-py) * 1px) calc(var(--term-px) * 1px);
+    border-radius: calc(var(--term-rad) * 1px);
+    background-color: var(--color-bg);
+    white-space: pre;
+    -webkit-locale: 'en';
+  }
+  </style>
+    <pre xmlns="http://www.w3.org/1999/xhtml" id="terminal">​                       <span class="ansi-blue-fg ansi-bold">aryan02420</span>     
+<span class="ansi-bright-black-fg">​          .-.-----,</span>    <span class="ansi-bright-black-fg">----------</span>     
+<span class="ansi-bright-black-fg">​         ( /  0 0 \)</span>   ​              
+<span class="ansi-bright-black-fg">​         .(    @   )</span>   <span class="ansi-blue-fg ansi-bold">Repos</span><span class="ansi-bright-black-fg">: </span><span class="ansi-black-fg">52</span>      
+<span class="ansi-bright-black-fg">​        /   `--U--`</span>    <span class="ansi-blue-fg ansi-bold">Followers</span><span class="ansi-bright-black-fg">: </span><span class="ansi-black-fg">8</span>   
+<span class="ansi-bright-black-fg">​       /   \      |</span>    <span class="ansi-blue-fg ansi-bold">Orgs</span><span class="ansi-bright-black-fg">: </span><span class="ansi-black-fg">4</span>        
+<span class="ansi-bright-black-fg">​  _   / \   | || |</span>     <span class="ansi-blue-fg ansi-bold">Stars</span><span class="ansi-bright-black-fg">: </span><span class="ansi-black-fg">24</span>      
+<span class="ansi-bright-black-fg">​ | \_(   |  | || |</span>     ​              
+<span class="ansi-bright-black-fg">​  \__;  /_  | || |</span>     <span class="ansi-blue-fg ansi-bold">Languages</span><span class="ansi-bright-black-fg">:</span>     
+<span class="ansi-bright-black-fg">​     \____)_\__)__)</span>    ​<span class="ansi-bright-black-fg">  - </span><span class="ansi-black-fg">TypeScript</span>
+<span class="ansi-bright-black-fg">​</span>                       ​<span class="ansi-bright-black-fg">  - </span><span class="ansi-black-fg">Python</span>    
+​</pre>
+  </foreignObject>
+</svg>
