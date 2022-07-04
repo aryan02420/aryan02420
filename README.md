@@ -6,18 +6,18 @@
       <img
         src="https://github.com/aryan02420/aryan02420/raw/main/userfetch/info.svg"
         alt="aryan02420"
-        width="420px"
+        width="390px"
       />
     </td>
     <td>
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api?username=aryan02420&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=apprentice"
+          srcset="https://github-readme-stats.vercel.app/api?username=aryan02420&show_icons=true&hide_title=true&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&bg_color=18181B&icon_color=afafaf&text_color=fcfcfc&title_color=efefef"
           width="380"
         />
         <img
-          src="https://github-readme-stats.vercel.app/api?username=aryan02420&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=graywhite"
+          src="https://github-readme-stats.vercel.app/api?username=aryan02420&show_icons=true&hide_title=true&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&theme=graywhite"
           alt="aryan02420's GitHub Stats"
           width="380"
         />
@@ -29,11 +29,11 @@
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan02420&layout=compact&hide_title=true&langs_count=6&theme=apprentice"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan02420&layout=compact&hide_title=true&langs_count=6&hide_border=true&border_radius=12&card_width=380&bg_color=18181B&icon_color=afafaf&text_color=fcfcfc&title_color=efefef"
           width="380"
         />
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan02420&layout=compact&hide_title=true&langs_count=6&theme=graywhite"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan02420&layout=compact&hide_title=true&langs_count=6&hide_border=true&border_radius=12&card_width=380&theme=graywhite"
           alt="aryan02420's GitHub Stats"
           width="380"
         />
