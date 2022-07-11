@@ -83,17 +83,17 @@
     -webkit-locale: 'en';
   }
   </style>
-    <pre xmlns="http://www.w3.org/1999/xhtml" id="terminal">​                       aryan02420     
-​          .-.-----,    ----------     
-​         ( /  0 0 \)   ​              
-​         .(    @   )   Repos: 52      
-​        /   `--U--`    Followers: 8   
-​       /   \      |    Orgs: 4        
-​  _   / \   | || |     Stars: 24      
-​ | \_(   |  | || |     ​              
-​  \__;  /_  | || |     Languages:     
-​     \____)_\__)__)    ​  - TypeScript
-​                       ​  - Python    
+    <pre xmlns="http://www.w3.org/1999/xhtml" id="terminal">​                       <span class="ansi-blue-fg ansi-bold">aryan02420</span>     
+<span class="ansi-bright-black-fg">​          .-.-----,</span>    <span class="ansi-bright-black-fg">----------</span>     
+<span class="ansi-bright-black-fg">​         ( /  0 0 \)</span>   ​              
+<span class="ansi-bright-black-fg">​         .(    @   )</span>   <span class="ansi-blue-fg ansi-bold">Repos</span><span class="ansi-bright-black-fg">: </span><span class="ansi-black-fg">52</span>      
+<span class="ansi-bright-black-fg">​        /   `--U--`</span>    <span class="ansi-blue-fg ansi-bold">Followers</span><span class="ansi-bright-black-fg">: </span><span class="ansi-black-fg">8</span>   
+<span class="ansi-bright-black-fg">​       /   \      |</span>    <span class="ansi-blue-fg ansi-bold">Orgs</span><span class="ansi-bright-black-fg">: </span><span class="ansi-black-fg">4</span>        
+<span class="ansi-bright-black-fg">​  _   / \   | || |</span>     <span class="ansi-blue-fg ansi-bold">Stars</span><span class="ansi-bright-black-fg">: </span><span class="ansi-black-fg">24</span>      
+<span class="ansi-bright-black-fg">​ | \_(   |  | || |</span>     ​              
+<span class="ansi-bright-black-fg">​  \__;  /_  | || |</span>     <span class="ansi-blue-fg ansi-bold">Languages</span><span class="ansi-bright-black-fg">:</span>     
+<span class="ansi-bright-black-fg">​     \____)_\__)__)</span>    ​<span class="ansi-bright-black-fg">  - </span><span class="ansi-black-fg">TypeScript</span>
+<span class="ansi-bright-black-fg">​</span>                       ​<span class="ansi-bright-black-fg">  - </span><span class="ansi-black-fg">Python</span>    
 ​</pre>
   </foreignObject>
 </svg>
