@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: userfetch
-        uses: userfetch/userfetch-action@v1
+        uses: userfetch/userfetch-action@v1.1
         with:
           config: 'userfetch/config.mjs'
           svg: 'userfetch/info.svg'
@@ -23,7 +23,7 @@ jobs:
           github_token: ${{ secrets.GH_PAT }}
 
       - name: userfetch
-        uses: userfetch/userfetch-action@v1
+        uses: userfetch/userfetch-action@v1.1
         with:
           config: 'userfetch/config_light.mjs'
           svg: 'userfetch/info_light.svg'
