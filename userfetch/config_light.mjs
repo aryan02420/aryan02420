@@ -39,7 +39,7 @@ export const colors = {
   primary: 'blue',
   secondary: 'black',
   tertiary: 'gray',
-  alternate: 'blackBright',
+  alternate: 'black',
 }
 
 export const meta = {
@@ -51,7 +51,7 @@ export const meta = {
 
 export const svgOptions = {
   colors: {
-    backgroundColor: '#fcfcfc',
+    backgroundColor: '#f0f0f0',
     foregroundColor: '#18181b',
     black: '#232627',
     red: '#ef4444',

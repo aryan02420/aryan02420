@@ -32,7 +32,7 @@ export const symbols = {
   underline: '-',
   infoSeparator: ':',
   listMarker: '-',
-  columnSeparator: '   ',
+  columnSeparator: '    ',
 }
 
 export const colors = {
@@ -52,7 +52,7 @@ export const meta = {
 export const svgOptions = {
   colors: {
     backgroundColor: '#18181b',
-    foregroundColor: '#fcfcfc',
+    foregroundColor: '#f0f0f0',
     black: '#232627',
     red: '#ef4444',
     green: '#22c55e',

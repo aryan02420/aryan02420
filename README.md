@@ -6,11 +6,11 @@
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github.com/aryan02420/aryan02420/raw/main/userfetch/info.svg"
+          srcset="./userfetch/info.svg"
           width="390"
         />
         <img
-          src="https://github.com/aryan02420/aryan02420/raw/main/userfetch/info_light.svg"
+          src="./userfetch/info_light.svg"
           alt="aryan02420's GitHub Stats"
           width="390"
         />
@@ -20,11 +20,11 @@
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api?username=aryan02420&show_icons=true&hide_title=true&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&bg_color=18181B&icon_color=afafaf&text_color=fcfcfc&title_color=efefef"
+          srcset="https://github-readme-stats.vercel.app/api?username=aryan02420&show_icons=true&hide_title=true&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&bg_color=18181B&icon_color=4ade80&text_color=fcfcfc&title_color=4ade80"
           width="380"
         />
         <img
-          src="https://github-readme-stats.vercel.app/api?username=aryan02420&show_icons=true&hide_title=true&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&theme=graywhite"
+          src="https://github-readme-stats.vercel.app/api?username=aryan02420&show_icons=true&hide_title=true&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&bg_color=f0f0f0&icon_color=3b82f6&text_color=232627&title_color=3b82f6"
           alt="aryan02420's GitHub Stats"
           width="380"
         />
@@ -36,11 +36,11 @@
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan02420&layout=compact&hide_title=true&langs_count=6&hide_border=true&border_radius=12&card_width=380&bg_color=18181B&icon_color=afafaf&text_color=fcfcfc&title_color=efefef"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan02420&layout=compact&hide_title=true&langs_count=6&hide_border=true&border_radius=12&card_width=380&bg_color=18181B&icon_color=4ade80&text_color=fcfcfc&title_color=4ade80"
           width="380"
         />
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan02420&layout=compact&hide_title=true&langs_count=6&hide_border=true&border_radius=12&card_width=380&theme=graywhite"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan02420&layout=compact&hide_title=true&langs_count=6&hide_border=true&border_radius=12&card_width=380&bg_color=f0f0f0&icon_color=3b82f6&text_color=232627&title_color=3b82f6"
           alt="aryan02420's GitHub Stats"
           width="380"
         />
