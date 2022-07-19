@@ -2,15 +2,29 @@
 
 <table border="0">
   <tr>
+    <td colspan="2">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="images/banner.png"
+        />
+        <img
+          src="images/banner_light.png"
+          alt="Hi, I'm Aryan"
+        />
+      </picture>
+    </td>
+  </tr>
+  <tr>
     <td rowspan="2">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
-          srcset="./userfetch/info.svg"
+          srcset="userfetch/info.svg"
           width="390"
         />
         <img
-          src="./userfetch/info_light.svg"
+          src="userfetch/info_light.svg"
           alt="aryan02420's GitHub Stats"
           width="390"
         />
