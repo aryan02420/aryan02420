@@ -1,4 +1,4 @@
-name: readme
+name: userfetch
 
 on:
   push:
@@ -32,8 +32,7 @@ jobs:
 
       - name: commit
         run: |
-          git add .
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git commit -am '🤖 Daily update!'
-          git push origin main
+          git config --local user.name 'github-actions[bot]'
+          git config --local user.email 'github-actions[bot]@users.noreply.github.com'
+          git commit -am '🤖 Daily update!' | true
+          git push
