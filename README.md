@@ -64,6 +64,14 @@
 </table>
 
 
+<br/>
+
+<details>
+  <summary>🕹️ Play a Game</summary>
+  <!--START_SECTION:wreadle-->
+  <!--END_SECTION:wreadle-->
+</details>
+
 <!--
 **aryan02420/aryan02420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

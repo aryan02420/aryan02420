@@ -1,10 +1,9 @@
 name: wordle
 
 on:
-  workflow_dispatch:
   repository_dispatch:
     types:
-      - wordle-update-trigger
+      - wordle
 
 jobs:
   wordle:
@@ -13,19 +12,16 @@ jobs:
       - name: setup
         uses: actions/checkout@v2
 
-      - name: readme-wordle
-        uses: aryan02420/readme-wordle
+      - name: wordle
+        uses: aryan02420/wreadle@main
         with:
-          state: ''
-          action: 'a'
-          outfile: './templates/wordle.md'
-        env:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          readme: ./README.md
+          tag: wreadle
+          serverUrl: https://wreadle.02420.dev
 
       - name: commit
         run: |
-          git add .
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git commit -am '🐛 Wordle update!'
-          git push origin main
+          git config --local user.name 'github-actions[bot]'
+          git config --local user.email 'github-actions[bot]@users.noreply.github.com'
+          git commit -am '🐛 Wordle update!' | true
+          git push
