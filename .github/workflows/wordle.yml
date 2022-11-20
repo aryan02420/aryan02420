@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: wordle
-        uses: aryan02420/wreadle@main
+        uses: aryan02420/wordle@main
         with:
           readme: ./README.md
           tag: wreadle
