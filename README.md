@@ -72,7 +72,7 @@
       <h4>
         <details>
           <summary>🕹️ Play a Game</summary>
-          <!--START_SECTION:wreadle--><!--VAR:wreadle state=0gib8d6000000000008-->
+          <!--START_SECTION:wreadle--><!--VAR:wreadle state=10ib8d600000000000a8-->
 
 <p align="center">
 <table>
@@ -90,7 +90,7 @@
 
 |      |      |      |      |      |
 | ---- | ---- | ---- | ---- | ---- |
-|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/b0.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/cursor.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|
+|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/b0.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/j0.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/cursor.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|
 |<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|
 |<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|
 |<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|
