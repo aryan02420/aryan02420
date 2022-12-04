@@ -72,7 +72,7 @@
       <h4>
         <details>
           <summary>🕹️ Play a Game</summary>
-          <!--START_SECTION:wreadle--><!--VAR:wreadle state=2kib8d600000000000aco3o-->
+          <!--START_SECTION:wreadle--><!--VAR:wreadle state=2gib8d600000000000aco3o-->
 
 <p align="center">
 <table>
@@ -99,7 +99,7 @@
 
 
 </p></td></tr>
-<tr><td><p align="center">not a valid word</p></td></tr>
+<tr><td><p align="center"></p></td></tr>
 <tr><td><p align="center">
 
 <br/>
