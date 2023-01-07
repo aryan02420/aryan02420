@@ -72,7 +72,7 @@
       <h4>
         <details>
           <summary>🕹️ Play a Game</summary>
-          <!--START_SECTION:wreadle--><!--VAR:wreadle state=8gb0jj4gn0g418j000hrk8rqo4p42lbbo-->
+          <!--START_SECTION:wreadle--><!--VAR:wreadle state=8ib0jj4gn0g418j000hrk8rqo4p42lbbo-->
 
 <p align="center">
 <table>
@@ -99,7 +99,7 @@
 
 
 </p></td></tr>
-<tr><td><p align="center"></p></td></tr>
+<tr><td><p align="center">guess must be a five letter word</p></td></tr>
 <tr><td><p align="center">
 
 <br/>
