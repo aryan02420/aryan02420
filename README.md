@@ -72,7 +72,7 @@
 <h4>
 <details>
 <summary>🕹️ Play a Game</summary>
-<!--START_SECTION:wreadle--><!--VAR:wreadle state=8ib0jj4gn0g418j000hrk8rqo4p42lbbo-->
+<!--START_SECTION:wreadle--><!--VAR:wreadle state=80b0jj4gn0g418j000hrk8rqo4p2lbbo-->
 
 <p align="center">
 <table>
@@ -92,14 +92,14 @@
 | ---- | ---- | ---- | ---- | ---- |
 |<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/c1.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/h1.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/o1.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/r1.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/d1.png" />|
 |<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/p1.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/l2.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/a2.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/t3.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/e3.png" />|
-|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/q0.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/cursor.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|
+|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/cursor.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|
 |<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|
 |<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|
 |<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|<img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/blank.png" />|
 
 
 </p></td></tr>
-<tr><td><p align="center">guess must be a five letter word</p></td></tr>
+<tr><td><p align="center"></p></td></tr>
 <tr><td><p align="center">
 
 <br/>
