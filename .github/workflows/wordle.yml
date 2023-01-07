@@ -9,6 +9,9 @@ jobs:
   wordle:
     runs-on: ubuntu-latest
     steps:
+      - name: wait for previous workflows to finish
+        uses: ahmadnassri/action-workflow-queue@v1
+        
       - name: setup
         uses: actions/checkout@v2
 
