@@ -67,12 +67,12 @@
 <br/>
 
 <table>
-  <tr>
-    <td>
-      <h4>
-        <details>
-          <summary>🕹️ Play a Game</summary>
-          <!--START_SECTION:wreadle--><!--VAR:wreadle state=8ib0jj4gn0g418j000hrk8rqo4p42lbbo-->
+<tr>
+<td>
+<h4>
+<details>
+<summary>🕹️ Play a Game</summary>
+<!--START_SECTION:wreadle--><!--VAR:wreadle state=8ib0jj4gn0g418j000hrk8rqo4p42lbbo-->
 
 <p align="center">
 <table>
@@ -112,10 +112,10 @@
 </p>
 
 <!--END_SECTION:wreadle-->
-        </details>
-      </h4>
-    </td>
-  </tr>
+</details>
+</h4>
+</td>
+</tr>
 </table>
 
 <!--
