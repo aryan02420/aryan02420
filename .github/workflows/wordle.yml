@@ -11,7 +11,10 @@ jobs:
     steps:
       - name: wait for previous workflows to finish
         uses: ahmadnassri/action-workflow-queue@v1
-        
+
+      - name: wait some more
+        run: sleep 3
+
       - name: setup
         uses: actions/checkout@v2
 
