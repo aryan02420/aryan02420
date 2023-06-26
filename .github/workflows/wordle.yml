@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: wait for previous workflows to finish
         uses: ahmadnassri/action-workflow-queue@v1
+        with:
+          delay: 1000
 
       - name: setup
         uses: actions/checkout@v2
