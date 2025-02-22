@@ -72,7 +72,7 @@
 <h4>
 <details>
 <summary>🕹️ Play a Game</summary>
-<!--START_SECTION:wreadle--><!--VAR:wreadle state=2kj4dj70000000000652hjo-->
+<!--START_SECTION:wreadle--><!--VAR:wreadle state=2gj4dj70000000000652hjo-->
 
 <h2 align="center"><img height="32px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/timer.svg" alt="timer" /> WORDLE</h2>
 
@@ -80,7 +80,7 @@
 
 <br/>
 
-<p align="center">not a valid word</p>
+<p align="center"></p>
 
 <p align="center"><a href="https://wreadle.02420.dev/aryan02420/aryan02420/wordle/q"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/q0.png" /></a> &nbsp;<a href="https://wreadle.02420.dev/aryan02420/aryan02420/wordle/w"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/w0.png" /></a> &nbsp;<a href="https://wreadle.02420.dev/aryan02420/aryan02420/wordle/e"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/e0.png" /></a> &nbsp;<a href="https://wreadle.02420.dev/aryan02420/aryan02420/wordle/r"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/r0.png" /></a> &nbsp;<a href="https://wreadle.02420.dev/aryan02420/aryan02420/wordle/t"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/t0.png" /></a> &nbsp;<a href="https://wreadle.02420.dev/aryan02420/aryan02420/wordle/y"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/y0.png" /></a> &nbsp;<a href="https://wreadle.02420.dev/aryan02420/aryan02420/wordle/u"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/u0.png" /></a> &nbsp;<a href="https://wreadle.02420.dev/aryan02420/aryan02420/wordle/i"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/i0.png" /></a> &nbsp;<a href="https://wreadle.02420.dev/aryan02420/aryan02420/wordle/o"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/o0.png" /></a> &nbsp;<a href="https://wreadle.02420.dev/aryan02420/aryan02420/wordle/p"><img height="40px" src="https://raw.githubusercontent.com/aryan02420/wordle/main/public/images/p0.png" /></a> &nbsp;</p>
 
